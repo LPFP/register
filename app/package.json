@@ -1,0 +1,14 @@
+{
+  "name": "Addmember",
+  "version": "0.1.0",
+  "description": "Addmember application built with Electron",
+  "author": {
+    "name": "lpfp",
+    "email": ""
+  },
+  "license": "MIT",
+  "main": "javascripts/main/index.js",
+  "dependencies": {
+
+  }
+}
