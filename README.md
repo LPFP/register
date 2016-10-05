@@ -15,21 +15,22 @@ Create with [bozon](https://github.com/railsware/bozon) & [Node V6]
 * install node and NPM *check version above V5*
 
 ```bash
-sudo apt-get install nodejs
-sudo apt-get install npm
+$ sudo apt-get install nodejs
+$ sudo apt-get install npm
 ```
 
 * clone the repository
 
 ```bash
-git https://github.com/LPFP/register.git
-cd register
+$ git clone https://github.com/LPFP/register.git
+$ cd register
 ```
 
 * Install dependencies using npm
 
 ```bash
 $ npm install
+$ npm install -g bozon
 ```
 
 * Run the app `$ bozon start`
